@@ -38,13 +38,13 @@
 <h2>💻 Projects</h2>
 
 ### 🛒 **E-commerce Platform**
-- 🔗 Project Repository: [E-commerce Repo](#)
+- 🔗 Project Repository: [E-commerce Repo](https://github.com/P-JAGADISH/E-commerce.git)
 - Built a responsive and user-friendly front-end using React.js and Bootstrap.
 - Developed RESTful APIs with Node.js and Express.js.
 - Used Firebase for real-time updates.
 
 ### 🔍 **Image Search Engine**
-- 🔗 Project Repository: [Image Search Engine Repo](#)
+- 🔗 Project Repository: [Image Search Engine Repo](https://github.com/P-JAGADISH/Image-Search-Engine.git)
 - Created a keyword-based search feature and optimized UI with React.js.
 - Debugged and fixed complex JavaScript issues.
 ---
