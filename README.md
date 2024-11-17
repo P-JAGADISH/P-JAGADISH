@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1;">
-    <h1>Hi there 👋, I’m Jagadish</h1>
+    <h1>Hi there 👋, I’m Jagadish, a tech enthusiast passionate about crafting seamless web applications and solving complex database challenges.</h1>
     <p>
       🚀 <b>Full-Stack Developer</b><br>
       🌟 <b>Passionate about building scalable and functional applications.</b>
