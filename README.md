@@ -31,7 +31,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40">
 </p>
@@ -40,7 +39,7 @@
 
 <h2>💼 Work Experience</h2>
 
-### 🚀 **Frontend Developer – Jayam Web Solutions Pvt Ltd (Apr 2025 – Present)**
+### 🚀 **Frontend Developer – Jayam Web Solutions Pvt Ltd (Apr 2025 – August-2025)**
 - Built admin dashboards, user-facing interfaces, and business websites using React.js, Bootstrap, and Tailwind CSS.
 - Integrated Firebase Authentication (Google Sign-In, Email/Password) with Firestore & Storage.
 - Implemented contact forms using Email.js without backend.
@@ -94,7 +93,7 @@
 <h2>📫 Contact Me</h2>
 
 - 📧 Email: [jagajagadish1410@gmail.com](mailto:jagajagadish1410@gmail.com)  
-- 🌐 Portfolio: [Personal Portfolio](https://p-jagadish.github.io/Personal_portfolio/)  
+- 🌐 Portfolio: [Personal Portfolio](https://portfolionextjs-ruddy.vercel.app/  )  
 - 🌐 LinkedIn: [Jagadish's LinkedIn](https://linkedin.com/in/jagadish-p-b27392266)  
 - 💻 GitHub: [P-JAGADISH](https://github.com/P-JAGADISH)  
 
